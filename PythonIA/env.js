@@ -1,0 +1,1 @@
+//criar arquivo .env com a key do modelo da AI API
